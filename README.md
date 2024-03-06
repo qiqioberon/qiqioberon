@@ -75,6 +75,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/qiqioberon/qiqioberon/output/snake.svg" alt="Snake animation" />
+
 
 ###
