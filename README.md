@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aqil Farrukh</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3QyNWxkNGlpbjJ3cWYxeDZyZmRkbmQwdnZ6eDdmeWc2YTMya2dkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
+<img align="right" alt="coding" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3QyNWxkNGlpbjJ3cWYxeDZyZmRkbmQwdnZ6eDdmeWc2YTMya2dkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qiqioberon&label=Profile%20views&color=0e75b6&style=flat" alt="qiqioberon" /> </p>
