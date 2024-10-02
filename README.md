@@ -55,6 +55,8 @@
   <img src="https://streak-stats.demolab.com?user=qiqioberon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
 </div>
 
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/qiqioberon/github-readme-stats)
 ###
 
 <div align="left">
