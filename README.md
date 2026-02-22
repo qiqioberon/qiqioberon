@@ -1,107 +1,182 @@
-<!-- Profile README — Muhammad Aqil Farrukh (qiqioberon) -->
-
-<h2 align="left">
-  Hi 👋 I'm Muhammad Aqil Farrukh<br/>
-  <sub>Frontend Enthusiast • UI/UX • Web Development</sub>
-</h2>
-
-<img align="right" height="190" alt="coding gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3QyNWxkNGlpbjJ3cWYxeDZyZmRkbmQwdnZ6eDdmeWc2YTMya2dkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
-
-<p align="left">
-  I enjoy crafting responsive interfaces, building reusable components, and turning designs into smooth user experiences.
-</p>
-
-<p align="left">
-  🔭 Currently exploring: <b>modern frontend architecture</b>, <b>UI systems</b>, and <b>performance</b><br/>
-  🎯 Focus: <b>React / TypeScript</b> + <b>Tailwind</b><br/>
-  🤝 Open to: collaboration & interesting frontend projects
-</p>
-
----
-
-<h3 align="left">🧰 Tech Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="vue" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="36" alt="tailwind" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="bootstrap" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="c" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="cplusplus" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="github" />
-</div>
-
-<br/>
-
-<h3 align="left">🎨 Design Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" alt="figma" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="34" alt="photoshop" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="34" alt="illustrator" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="34" alt="premierepro" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="34" alt="canva" />
-</div>
-
----
-
-<h3 align="left">📈 GitHub Stats</h3>
-
-<div align="center">
-  <img height="155" alt="stats"
-    src="https://github-readme-stats-clone-ten.vercel.app/api?username=qiqioberon&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
-  <img height="155" alt="top langs"
-    src="https://github-readme-stats-clone-ten.vercel.app/api/top-langs?username=qiqioberon&layout=compact&langs_count=8&theme=dracula&hide_border=true&exclude_repo=Machine-Learning" />
-</div>
-
-<div align="center">
-  <img height="190" alt="streak"
-    src="https://streak-stats.demolab.com?user=qiqioberon&theme=dracula&hide_border=true&border_radius=10" />
-</div>
-
 <div align="center">
   <img
-    alt="wakatime"
-    src="https://github-readme-stats-clone-ten.vercel.app/api/wakatime?username=qiqioberon&theme=dracula&hide_border=true&cache_seconds=1800&v=2&langs_count=5"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20Im%20Qiqi&textBg=false&fontAlign=31&desc=Software%20Engineer%20%7C%20Web%20Dev%20%7C%20Flutter%20Dev%20%7C%20Graphic%20Designer&descAlignY=67&descAlign=40&animation=fadeIn&stroke=blue&strokeWidth=16&fontSize=82&fontAlignY=46&section=header"
+    alt="Header"
   />
 </div>
 
----
+<div align="center">
+  <!-- SOCIAL BADGES -->
+  <p>
+    <a href="https://www.linkedin.com/in/muhammad-aqil-farrukh-3bab891b5/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/qiqi_farrukh/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="mailto:aquq1q1.farrukh@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/qiqioberon">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
 
-<h3 align="left">🔗 Connect</h3>
-
-<div align="left">
-  <a href="https://www.instagram.com/qiqi_farrukh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="Instagram" />
-  </a>
-  <a href="mailto:aquq1q1.farrukh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="Gmail" />
+  <!-- TYPING SVG -->
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=760&lines=Software+Engineer;Web+Dev+%7C+Flutter+Dev+%7C+Graphic+Designer;Building+Web+%26+Mobile+Apps;Exploring+AI%2FML"
+      alt="Typing SVG"
+    />
   </a>
 </div>
 
-<img align="right" alt="visitor badge"
-  src="https://visitor-badge.laobi.icu/badge?page_id=qiqioberon.qiqioberon&left_color=mediumvioletred&left_text=GUEST" />
+<!-- ABOUT ME -->
+<div align="center">
+  <h2>👋 About Me</h2>
+</div>
 
-<br clear="both" />
+<p align="center">
+  Hi! I'm <b>Muhammad Aqil Farrukh</b> (<code>@qiqioberon</code>) — a <b>last year Informatics Engineering student</b>.
+  I love building <b>web & mobile apps</b>, I’m also a <b>graphic designer</b>, and I’m still exploring <b>AI/ML</b>.
+</p>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="60%" valign="top">
+        <h3>👨‍💻 I'm currently...</h3>
+        <ul>
+          <li>🔭 Building web & mobile apps (Next.js, Express, Flutter)</li>
+          <li>🌱 Learning scalable backend & system design (Golang, API architecture)</li>
+          <li>🎨 Designing clean UI & visual assets (branding, thumbnails, social media)</li>
+          <li>🧪 Exploring AI/ML experiments & research workflows</li>
+        </ul>
+      </td>
+      <td width="40%" valign="top">
+        <a href="https://github.com/qiqioberon">
+          <img
+            src="https://github-readme-stats-clone-ten.vercel.app/api?username=qiqioberon&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=1800&v=1"
+            alt="GitHub Stats"
+            width="100%"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- TECH STACK -->
+<div align="center">
+  <h2>🧰 Tech Stack</h2>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</p>
+
+<!-- GITHUB STATS -->
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+
+  <!-- STREAK -->
+  <a href="https://github.com/qiqioberon">
+    <img src="https://streak-stats.demolab.com?user=qiqioberon&theme=dracula&hide_border=true" alt="GitHub Streak" width="90%" />
+  </a>
+
+  <div>
+    <a href="https://github.com/qiqioberon">
+      <img height="180em" src="https://github-readme-stats-clone-ten.vercel.app/api/top-langs/?username=qiqioberon&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800&v=1" alt="Top Languages" />
+      <img height="180em" src="https://github-readme-stats-clone-ten.vercel.app/api?username=qiqioberon&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=1" alt="GitHub Stats" />
+    </a>
+  </div>
+
+  <!-- WAKATIME (TOP 5 LANGUAGES) -->
+  <div align="center">
+    <img
+      alt="wakatime"
+      src="https://github-readme-stats-clone-ten.vercel.app/api/wakatime?username=qiqioberon&theme=dracula&hide_border=true&langs_count=5&cache_seconds=1800&v=1"
+    />
+  </div>
+
+  <!-- ACTIVITY GRAPH -->
+  <a href="https://github.com/qiqioberon">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qiqioberon&bg_color=0D1117&color=06B6D4&line=06B6D4&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
+  </a>
+
+  <!-- TROPHIES -->
+  <a href="https://github.com/qiqioberon">
+    <img src="https://github-profile-trophy.vercel.app/?username=qiqioberon&theme=dracula&no-frame=true&no-bg=true&margin-w=5&column=7" alt="GitHub Trophies" width="100%" />
+  </a>
+</div>
+
+<!-- FEATURED PROJECTS -->
+<div align="center">
+  <h2>🌟 Featured Projects</h2>
+  <p>Some projects I’m actively working on</p>
+
+  <a href="https://github.com/qiqioberon/ling-mandarin-lab-profile">
+    <img
+      width="49%"
+      src="https://github-readme-stats-clone-ten.vercel.app/api/pin/?username=qiqioberon&repo=ling-mandarin-lab-profile&theme=dracula&hide_border=true&cache_seconds=1800&v=1"
+      alt="ling-mandarin-lab-profile"
+    />
+  </a>
+
+  <a href="https://github.com/qiqioberon/deploy-tugas-akhir">
+    <img
+      width="49%"
+      src="https://github-readme-stats-clone-ten.vercel.app/api/pin/?username=qiqioberon&repo=deploy-tugas-akhir&theme=dracula&hide_border=true&cache_seconds=1800&v=1"
+      alt="deploy-tugas-akhir"
+    />
+  </a>
+</div>
+
+<!-- QUOTE -->
+<div align="center">
+  <h2>💭 Random Dev Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</div>
+
+<!-- CONNECT -->
+<div align="center">
+  <h2>🤝 Let’s Connect</h2>
+  <p><i>Open for collaboration, freelance, and cool side projects.</i></p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/muhammad-aqil-farrukh-3bab891b5/">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/qiqi_farrukh/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="mailto:aquq1q1.farrukh@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=qiqioberon&color=06B6D4&style=for-the-badge" alt="Profile Views"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:06B6D4&height=100&section=footer" alt="Footer" />
+</div>
