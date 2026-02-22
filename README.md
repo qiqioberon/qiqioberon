@@ -84,7 +84,7 @@
 <div align="center">
   <img
     alt="wakatime"
-    src="https://github-readme-stats-clone-ten.vercel.app/api/wakatime?username=qiqioberon&theme=dracula&hide_border=true&cache_seconds=1800&v=2"
+    src="https://github-readme-stats-clone-ten.vercel.app/api/wakatime?username=qiqioberon&theme=dracula&hide_border=true&cache_seconds=1800&v=2&langs_count=5"
   />
 </div>
 
