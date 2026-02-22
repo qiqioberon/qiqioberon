@@ -1,81 +1,107 @@
-<h2 align="left">Hi 👋! My name is Muhammad Aqil Farrukh, Im an Frontend Enthusiast</h2>
+<!-- Profile README — Muhammad Aqil Farrukh (qiqioberon) -->
 
-###
+<h2 align="left">
+  Hi 👋 I'm Muhammad Aqil Farrukh<br/>
+  <sub>Frontend Enthusiast • UI/UX • Web Development</sub>
+</h2>
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3QyNWxkNGlpbjJ3cWYxeDZyZmRkbmQwdnZ6eDdmeWc2YTMya2dkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
+<img align="right" height="190" alt="coding gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3QyNWxkNGlpbjJ3cWYxeDZyZmRkbmQwdnZ6eDdmeWc2YTMya2dkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
 
-###
+<p align="left">
+  I enjoy crafting responsive interfaces, building reusable components, and turning designs into smooth user experiences.
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="20" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+<p align="left">
+  🔭 Currently exploring: <b>modern frontend architecture</b>, <b>UI systems</b>, and <b>performance</b><br/>
+  🎯 Focus: <b>React / TypeScript</b> + <b>Tailwind</b><br/>
+  🤝 Open to: collaboration & interesting frontend projects
+</p>
+
+---
+
+<h3 align="left">🧰 Tech Stack</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="vue" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="36" alt="tailwind" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="bootstrap" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="c" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="cplusplus" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="github" />
 </div>
 
-###
+<br/>
 
-<br clear="both">
+<h3 align="left">🎨 Design Tools</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qiqioberon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="152" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qiqioberon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&exclude_repo=Machine-Learning" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=qiqioberon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" alt="figma" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="34" alt="photoshop" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="34" alt="illustrator" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="34" alt="premierepro" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="34" alt="canva" />
 </div>
 
+---
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qiqioberon)](https://github.com/anuraghazra/github-readme-stats)
-###
+<h3 align="left">📈 GitHub Stats</h3>
+
+<div align="center">
+  <img height="155" alt="stats"
+    src="https://github-readme-stats.vercel.app/api?username=qiqioberon&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
+  <img height="155" alt="top langs"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=qiqioberon&layout=compact&langs_count=8&theme=dracula&hide_border=true&exclude_repo=Machine-Learning" />
+</div>
+
+<div align="center">
+  <img height="190" alt="streak"
+    src="https://streak-stats.demolab.com?user=qiqioberon&theme=dracula&hide_border=true&border_radius=10" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="wakatime"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=qiqioberon&theme=dracula&hide_border=true" />
+  </a>
+</div>
+
+---
+
+<h3 align="left">🔗 Connect</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/qiqi_farrukh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="Instagram" />
   </a>
-  <a href="aquq1q1.farrukh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:aquq1q1.farrukh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="Gmail" />
   </a>
 </div>
 
-###
+<img align="right" alt="visitor badge"
+  src="https://visitor-badge.laobi.icu/badge?page_id=qiqioberon.qiqioberon&left_color=mediumvioletred&left_text=GUEST" />
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=qiqioberon.qiqioberon&left_color=mediumvioletred&left_text=GUEST"  />
-
-###
-
-<br clear="both">
-
-
-
-###
+<br clear="both" />
