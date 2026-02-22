@@ -71,9 +71,9 @@
 
 <div align="center">
   <img height="155" alt="stats"
-    src="https://github-readme-stats.vercel.app/api?username=qiqioberon&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
+    src="https://github-readme-stats-clone-ten.vercel.app/api?username=qiqioberon&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
   <img height="155" alt="top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=qiqioberon&layout=compact&langs_count=8&theme=dracula&hide_border=true&exclude_repo=Machine-Learning" />
+    src="https://github-readme-stats-clone-ten.vercel.app/api/top-langs?username=qiqioberon&layout=compact&langs_count=8&theme=dracula&hide_border=true&exclude_repo=Machine-Learning" />
 </div>
 
 <div align="center">
@@ -82,10 +82,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="wakatime"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=qiqioberon&theme=dracula&hide_border=true" />
-  </a>
+      src="https://github-readme-stats-clone-ten.vercel.app/api/wakatime?username=qiqioberon&theme=dracula&hide_border=true" />
 </div>
 
 ---
