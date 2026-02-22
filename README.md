@@ -107,7 +107,7 @@
 
   <div>
     <a href="https://github.com/qiqioberon">
-      <img height="180em" src="https://github-readme-stats-clone-ten.vercel.app/api/top-langs/?username=qiqioberon&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800&v=1&hide=Jupyter%20Notebook" alt="Top Languages" />
+      <img height="180em" src="https://github-readme-stats-clone-ten.vercel.app/api/top-langs/?username=qiqioberon&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800&v=1&hide=Jupyter%20Notebook,C#" alt="Top Languages" />
       <img height="180em" src="https://github-readme-stats-clone-ten.vercel.app/api?username=qiqioberon&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=1" alt="GitHub Stats" />
     </a>
   </div>
